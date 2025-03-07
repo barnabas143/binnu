@@ -1,4 +1,4 @@
-
+#include<stdio.h>
 int countways(int coins[],int n,int sum){
 	int dp[sum+i];
 	for(int i=0;i<=sum;i++)
